@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTSPraktik</string>
+    <string name="form_pengis">Form Pengisian Data</string>
+    <string name="form_beriku">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="jenis_tes_h">Jenis Tes \u00E2\u0080\u00A2 Harus Diisi</string>
+    <string name="jenis_tes_h2">Jenis Kelamin \u00E2\u0080\u00A2 Harus Diisi</string>
+    <string name="jenis_tes_h3">Jenis Kelamin \u00E2\u0080\u00A2 Harus Diisi</string>
+    <string name="tanggal_ter">Tanggal Terkonfirmasi \u00E2\u0080\u00A2 Harus Diisi</string>
+    <string name="nik">NIK</string>
+    <string name="masuknik">Masukan NIK</string>
+    <string name="nama">Masukan Nama</string>
+    <string name="dengan_ini_">Dengan ini saya menyetujui bahwa data yang saya isikan adalah benar</string>
+</resources>
